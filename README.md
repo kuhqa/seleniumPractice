@@ -1,4 +1,3 @@
 # seleniumPractice
 different notes from my head
-amma 
-hello 
+first commit to this repo
